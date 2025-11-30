@@ -19,13 +19,13 @@ Open notebook.ipynb
 
 Run all cells from top to bottom
 
-Required Python Libraries
+**Required Python Libraries (If you are not using Collab)** 
 
 Install all dependencies using:
 
 pip install numpy pandas seaborn matplotlib plotly scikit-learn xgboost rich
 
-Output Files
+**Output Files**
 
 After running the notebook, the following files will be generated:
 
@@ -35,4 +35,4 @@ cv_summary.csv — cross-validation summary table
 
 confusion_matrix_test.csv — test confusion matrix
 
-These files are also included pre-generated for convenience.
+These files are also included pre-generated for convenience
