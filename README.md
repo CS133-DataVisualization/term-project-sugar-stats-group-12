@@ -29,10 +29,10 @@ pip install numpy pandas seaborn matplotlib plotly scikit-learn xgboost rich
 
 After running the notebook, the following files will be generated:
 
-sugarstats_interactive.html — interactive diabetes visualization
+sugarstats_interactive.html (interactive diabetes visualization)
 
-cv_summary.csv — cross-validation summary table
+cv_summary.csv (cross-validation summary table)
 
-confusion_matrix_test.csv — test confusion matrix
+confusion_matrix_test.csv (test confusion matrix)
 
 These files are also included pre-generated for convenience
