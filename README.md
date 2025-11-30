@@ -1,6 +1,7 @@
 # Team Sugar Stats
 Members: Aaminah Mohammad, Justine Mae Legson, Akash Hebbar, Steven Dinh
-Project Overview
+
+**Project Overview**
 
 This project analyzes the CDC Diabetes Health Indicators dataset to explore factors linked to diabetes. We used data visualizations and machine learning to identify patterns in BMI, physical activity, general health, mental/physical health days, income, and healthcare access. Multiple models were trained and tested to predict diabetes status, and cross-validation was used to compare model performance.
 
